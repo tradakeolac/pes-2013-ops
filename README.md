@@ -13,33 +13,43 @@ PSD
 http://pesstatsdatabase.com/
 
 # DETAILS
-
 Sync on June 1st, 2017
-- Premier League
-Arsenal FC
-Chelsea FC
-Liverpool FC
-Manchester City FC
-Manchester United FC
-Tottenham Hotspur FC
 
-- Bundesliga
-Borussia Dortmund
-FC Bayern München
+* Premier League
+	* Arsenal FC
+	* Chelsea FC
+	* Liverpool FC
+	* Manchester City FC
+	* Manchester United FC
+	* Tottenham Hotspur FC
+	* Leicester City FC (players rating only)
 
-- Ligue 1
-AS Monaco FC (player rating only)
-Olympique Lyonnais
-Paris Saint-Germain FC
+* Bundesliga
+	* Borussia Dortmund
+	* FC Bayern München
 
-- Serie A
-AC Milan
-AS Roma
-FC Internazionale Milano
-Juventus FC
-SSC Napoli
+* Ligue 1
+	* AS Monaco FC (players rating only)
+	* Olympique Lyonnais
+	* Paris Saint-Germain FC
+	* OGC Nice
+	* Olympique de Marseille
+	* FC Girondins de Bordeaux
 
-- LaLiga
-Club Atlético de Madrid
-FC Barcelona
-Real Madrid CF
+* Serie A
+	* AC Milan
+	* AS Roma
+	* FC Internazionale Milano
+	* Juventus FC
+	* S.S.C Napoli
+	* SS Lazio
+	* Atalanta BC
+
+* LaLiga
+	* Club Atlético de Madrid
+	* FC Barcelona
+	* Real Madrid CF
+	* Sevilla FC
+	* Valencia CF
+	* Villarreal CF (players rating only)
+	* Real Sociedad de Fútbol
