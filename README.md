@@ -13,7 +13,7 @@ PSD
 http://pesstatsdatabase.com/
 
 # DETAILS
-Sync on June 1st, 2017
+Sync on July 28th, 2017
 
 * Premier League
 	* Arsenal FC
@@ -34,8 +34,8 @@ Sync on June 1st, 2017
 	* Olympique Lyonnais
 	* Paris Saint-Germain FC
 	* OGC Nice - Obsoleted
-	* Olympique de Marseille - Obsoleted
-	* FC Girondins de Bordeaux - Obsoleted
+	* Olympique de Marseille - [Obsoleted June 1st, 2017]
+	* FC Girondins de Bordeaux - [Obsoleted June 1st, 2017]
 
 * Serie A
 	* AC Milan
@@ -44,7 +44,7 @@ Sync on June 1st, 2017
 	* Juventus FC
 	* S.S.C Napoli
 	* SS Lazio
-	* Atalanta BC - Obsoleted
+	* Atalanta BC - [Obsoleted June 1st, 2017]
 
 * LaLiga
 	* Club Atlético de Madrid
@@ -53,4 +53,4 @@ Sync on June 1st, 2017
 	* Sevilla FC
 	* Valencia CF
 	* Villarreal CF
-	* Real Sociedad de Fútbol - Obsoleted
+	* Real Sociedad de Fútbol - [Obsoleted June 1st, 2017]
