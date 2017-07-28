@@ -22,19 +22,20 @@ Sync on June 1st, 2017
 	* Manchester City FC
 	* Manchester United FC
 	* Tottenham Hotspur FC
-	* Leicester City FC (players rating only)
+	* Leicester City FC 
+	* Everton FC
 
 * Bundesliga
 	* Borussia Dortmund
 	* FC Bayern München
 
 * Ligue 1
-	* AS Monaco FC (players rating only)
+	* AS Monaco FC 
 	* Olympique Lyonnais
 	* Paris Saint-Germain FC
-	* OGC Nice
-	* Olympique de Marseille
-	* FC Girondins de Bordeaux
+	* OGC Nice - Obsoleted
+	* Olympique de Marseille - Obsoleted
+	* FC Girondins de Bordeaux - Obsoleted
 
 * Serie A
 	* AC Milan
@@ -43,7 +44,7 @@ Sync on June 1st, 2017
 	* Juventus FC
 	* S.S.C Napoli
 	* SS Lazio
-	* Atalanta BC
+	* Atalanta BC - Obsoleted
 
 * LaLiga
 	* Club Atlético de Madrid
@@ -51,5 +52,5 @@ Sync on June 1st, 2017
 	* Real Madrid CF
 	* Sevilla FC
 	* Valencia CF
-	* Villarreal CF (players rating only)
-	* Real Sociedad de Fútbol
+	* Villarreal CF
+	* Real Sociedad de Fútbol - Obsoleted
