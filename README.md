@@ -1,8 +1,8 @@
 # OPTIONS
 Original OPTIONS is taken from 
-http://www.minosta4u.com/2017/04/pes-2013-mega-kits-pack-updated-1-april.html
+https://www.minosta4u.com/2017/09/pes-2013-pesedit-121-patch-20172018-by.html
 
-Work with PESEdit 11.0 V 2.0 (PATCH FINAL 2017)
+Work with PESEdit 12.1 
 
 # EDITOR 
 PES2013EditorV2
@@ -13,7 +13,7 @@ PSD
 http://pesstatsdatabase.com/
 
 # DETAILS
-Sync on July 28th, 2017
+Sync on Sep 27th, 2017
 
 * Premier League
 	* Arsenal FC
@@ -33,9 +33,7 @@ Sync on July 28th, 2017
 	* AS Monaco FC 
 	* Olympique Lyonnais
 	* Paris Saint-Germain FC
-	* OGC Nice - Obsoleted
-	* Olympique de Marseille - [Obsoleted June 1st, 2017]
-	* FC Girondins de Bordeaux - [Obsoleted June 1st, 2017]
+	* Olympique de Marseille 
 
 * Serie A
 	* AC Milan
@@ -44,7 +42,6 @@ Sync on July 28th, 2017
 	* Juventus FC
 	* S.S.C Napoli
 	* SS Lazio
-	* Atalanta BC - [Obsoleted June 1st, 2017]
 
 * LaLiga
 	* Club Atlético de Madrid
@@ -53,4 +50,3 @@ Sync on July 28th, 2017
 	* Sevilla FC
 	* Valencia CF
 	* Villarreal CF
-	* Real Sociedad de Fútbol - [Obsoleted June 1st, 2017]
